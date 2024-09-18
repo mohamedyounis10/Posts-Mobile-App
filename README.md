@@ -30,15 +30,6 @@ The **Posts App** is a simple application that displays posts fetched from the A
 
 ![Black and Violet Modern Sleek Professional Basic Simple Presentation](https://github.com/user-attachments/assets/a2b9e645-1125-48ef-acb0-ec4e30d569ed)
 
-
-**List of Posts**
-
-![Posts List](images/posts-list.png)
-
-**Post Details**
-
-![Post Details](images/post-details.png)
-
 ---
 
 ## Installation
